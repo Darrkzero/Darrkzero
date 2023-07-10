@@ -24,7 +24,7 @@ I'm a Software Engineer, and Community Engineer. I'm passionate about sharing kn
 - 🌱 I’m currently learning Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1m5Hi6lm78qnU-ffai0NXTGEIwSP2M1-f/edit?usp=sharing&ouid=108669670268505430660&rtpof=true&sd=true) and contact me by emailing chimaobiephraim@yahoo.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1YrZIWoUsYPY4Zp2_mmAFi-ARsi6yasYj/view?usp=drivesdk) and contact me by emailing chimaobiephraim@yahoo.com.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
