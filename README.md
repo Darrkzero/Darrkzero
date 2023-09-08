@@ -20,10 +20,10 @@ I'm a Software Engineer, and Community Engineer. I'm passionate about sharing kn
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I learnt Backend Engineering with Python (Flask), Frontend Engineering (HTML, CSS & Bootstrap) and I'm currently learning Django .
+- 😊 I'm open to contributing to open-source projects and discussing hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1YrZIWoUsYPY4Zp2_mmAFi-ARsi6yasYj/view?usp=drivesdk) and contact me by emailing chimaobiephraim@yahoo.com.
 
 ---
