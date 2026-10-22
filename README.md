@@ -1,20 +1,20 @@
-### 💫 About Me
+## 💫 About Me
 
 I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I build APIs and spatial data pipelines, and I analyse satellite and drone imagery to turn location data into tools people can actually use.
 
 Currently: GIS Analyst & Backend Engineer at **Indepth Earth Geospatial Services**, Port Harcourt, Nigeria 🇳🇬
 
-🛠️ **What I work with**
+ **What I work with**
 - **Backend:** Python (FastAPI, Django, Flask), TypeScript (NestJS), REST APIs, PostgreSQL/PostGIS, Docker
 - **GIS & Remote Sensing:** ArcGIS Pro, QGIS, Agisoft Metashape, GeoPandas, rasterio, Shapely, Landsat time series, DSAS
 - **Surveying:** GNSS/DGPS data collection and processing, cadastral and engineering surveys
 - **Frontend basics:** HTML, CSS, Bootstrap
 
-🔭 **Exploring:** GeoAI, especially machine learning models that account for spatial patterns and can explain their predictions
+ **Exploring:** GeoAI, especially machine learning models that account for spatial patterns and can explain their predictions
 
-🤝 **Open to:** open-source contributions, hackathons, collaborative projects, and GIS or backend roles
+ **Open to:** open-source contributions, hackathons, collaborative projects, and GIS or backend roles
 
-📫 **Reach me:** chimaobiephraim@yahoo.com
+ **Reach me:** chimaobiephraim@yahoo.com
 
 
 # 💫 About Me:
