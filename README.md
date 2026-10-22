@@ -2,7 +2,6 @@
 
 I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I build APIs and spatial data pipelines, and I analyse satellite and drone imagery to turn location data into tools people can actually use.
 
-Currently: GIS Analyst & Backend Engineer at **Indepth Earth Geospatial Services**, Port Harcourt, Nigeria 🇳🇬
 
  **What I work with**
 - **Backend:** Python (FastAPI, Django, Flask), TypeScript (NestJS), REST APIs, PostgreSQL/PostGIS, Docker
