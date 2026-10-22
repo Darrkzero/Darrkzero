@@ -13,7 +13,7 @@ I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I
 
  **Open to:** open-source contributions, hackathons, collaborative projects, and GIS or backend roles
 
- **Reach me:** chimaobiephraim@yahoo.com
+ **You can** [view my resume](https://drive.google.com/file/d/1YRC8K2YvZ_FxLZlCuI4WlKjExOFp4axI/view?usp=drive_link) or **Reach me:** chimaobiephraim@yahoo.com
 
 
 # 💫 About Me:
