@@ -1,3 +1,28 @@
+### 💫 About Me
+
+I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I build APIs and spatial data pipelines, and I analyse satellite and drone imagery to turn location data into tools people can actually use.
+
+Currently: GIS Analyst & Backend Engineer at **Indepth Earth Geospatial Services**, Port Harcourt, Nigeria 🇳🇬
+
+🛠️ **What I work with**
+- **Backend:** Python (FastAPI, Django, Flask), TypeScript (NestJS), REST APIs, PostgreSQL/PostGIS, Docker
+- **GIS & Remote Sensing:** ArcGIS Pro, QGIS, Agisoft Metashape, GeoPandas, rasterio, Shapely, Landsat time series, DSAS
+- **Surveying:** GNSS/DGPS data collection and processing, cadastral and engineering surveys
+- **Frontend basics:** HTML, CSS, Bootstrap
+
+🚀 **Things I've built**
+- **Geo Health** ([geohealth.ng](https://geohealth.ng)): backend for a live health facility finder with road-distance routing (FastAPI, PostGIS)
+- **Nigeria Police Station Coverage:** a Python pipeline that merges OpenStreetMap, GRID3 and Google Maps data into 1,838 geocoded police stations across all 36 states and the FCT, with coverage mapped for 774 LGAs
+- **Automatic building & fence digitizing:** detects buildings and fences in drone orthomosaics and exports georeferenced polygons, with an ArcGIS Pro toolbox
+- **40-year shoreline change study:** Landsat and DSAS analysis of the Degema coastline, 1986–2025
+
+🔭 **Exploring:** GeoAI, especially machine learning models that account for spatial patterns and can explain their predictions
+
+🤝 **Open to:** open-source contributions, hackathons, collaborative projects, and GIS or backend roles
+
+📫 **Reach me:** chimaobiephraim@yahoo.com
+
+
 # 💫 About Me:
 I am a Python Backend Developer & GIS Analyst experienced in building APIs, working with relational databases, and performing spatial data analysis.<br>My background in Geoinformatics helps me bridge backend engineering with geospatial intelligence.<br><br>Here's a quick summary about me:<br>🌱 I’ve learned Backend Engineering with Python (Fast Api, Flask, Django), Frontend basics (HTML, CSS & Bootstrap). I also work with GIS, remote sensing, spatial data analysis, and geospatial tools.<br><br>🧠 I enjoy solving problems, building APIs, working with databases, and combining backend systems with spatial intelligence.<br><br>🤝 I’m open to open-source contributions, hackathons, and collaborative projects<br><br>📫 You can [view my resume](https://drive.google.com/file/d/1YRC8K2YvZ_FxLZlCuI4WlKjExOFp4axI/view?usp=drive_link) or reach me via email: chimaobiephraim@yahoo.com
 
