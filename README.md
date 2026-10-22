@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I build APIs and spatial data pipelines, and I analyse satellite and drone imagery to turn location data into tools people can actually use.
+I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I build APIs, work with relational databases and spatial data pipelines, and I analyse satellite and drone imagery to turn location data into tools people can actually use.
 
 
  **What I work with**
