@@ -5,7 +5,7 @@ I'm a **GIS Analyst and Python Backend Engineer** with a surveying background. I
 
  **What I work with**
 - **Backend:** Python (FastAPI, Django, Flask), TypeScript (NestJS), REST APIs, PostgreSQL/PostGIS, Docker
-- **GIS & Remote Sensing:** ArcGIS Pro, QGIS, Agisoft Metashape, GeoPandas, rasterio, Shapely, Landsat time series, DSAS
+- **GIS & Remote Sensing:** ArcGIS Pro, ArcGIS Online, QGIS, Agisoft Metashape, GeoPandas, rasterio, Shapely, Landsat time series, DSAS
 - **Surveying:** GNSS/DGPS data collection and processing, cadastral and engineering surveys
 - **Frontend basics:** HTML, CSS, Bootstrap
 
