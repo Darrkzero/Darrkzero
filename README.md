@@ -10,12 +10,6 @@ Currently: GIS Analyst & Backend Engineer at **Indepth Earth Geospatial Services
 - **Surveying:** GNSS/DGPS data collection and processing, cadastral and engineering surveys
 - **Frontend basics:** HTML, CSS, Bootstrap
 
-🚀 **Things I've built**
-- **Geo Health** ([geohealth.ng](https://geohealth.ng)): backend for a live health facility finder with road-distance routing (FastAPI, PostGIS)
-- **Nigeria Police Station Coverage:** a Python pipeline that merges OpenStreetMap, GRID3 and Google Maps data into 1,838 geocoded police stations across all 36 states and the FCT, with coverage mapped for 774 LGAs
-- **Automatic building & fence digitizing:** detects buildings and fences in drone orthomosaics and exports georeferenced polygons, with an ArcGIS Pro toolbox
-- **40-year shoreline change study:** Landsat and DSAS analysis of the Degema coastline, 1986–2025
-
 🔭 **Exploring:** GeoAI, especially machine learning models that account for spatial patterns and can explain their predictions
 
 🤝 **Open to:** open-source contributions, hackathons, collaborative projects, and GIS or backend roles
